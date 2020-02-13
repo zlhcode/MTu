@@ -6,8 +6,14 @@ import java.util.List;
  */
 public class ItemEntity {
 
+    /**
+     * 图片路径
+     */
     private String imageSrc;
 
+    /**
+     * 详情标题
+     */
     private String title;
 
     private String desc;
